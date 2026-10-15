@@ -18,7 +18,6 @@ python3 -m http.server 8080
 - `index.html`：简介、实习、教育、技能、联系方式；`data-zh` / `data-en` 是双语文本。
 - `script.js`：项目详情与语言切换。
 - `styles.css`：布局与响应式样式。
-- `assets/Wangyang-Han-Resume.pdf`：下载版简历（公开发布）。
 
 ## GitHub Pages
 
