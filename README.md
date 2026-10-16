@@ -1,6 +1,6 @@
 # Wangyang Han · Personal website
 
-韩汪洋的个人主页，基于简历整理研究、项目、实习与教育经历。中英双语，纯静态 HTML / CSS / JavaScript，无运行时依赖。采用微浅蓝背景、淡蓝色点缀与侧栏式学术主页排版，电脑端左右页边距为 160px，不提供简历下载。
+韩汪洋的个人主页，基于简历整理研究、项目、实习与教育经历。中英双语，纯静态 HTML / CSS / JavaScript，无运行时依赖。采用微浅蓝背景、淡蓝色点缀与侧栏式学术主页排版，宽屏电脑端左侧页边距为 160px、右侧为 400px（小于 1280px 时自适应），不提供简历下载。
 
 - Website: https://hawaiiocean.github.io
 - Repository: https://github.com/HawaiiOcean/hawaiiocean.github.io
